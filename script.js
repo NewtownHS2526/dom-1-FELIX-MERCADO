@@ -53,7 +53,6 @@ const addBanana = () => {
     updateTotal();
 }
 
-// Event Listeners
 
 appleButton.addEventListener("click", addApple);
 mangoButton.addEventListener("click", addMango);
